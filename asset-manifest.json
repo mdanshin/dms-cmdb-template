@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/dms-cmdb-template/static/js/main.0d3e27d6.js",
+    "index.html": "/dms-cmdb-template/index.html",
+    "main.0d3e27d6.js.map": "/dms-cmdb-template/static/js/main.0d3e27d6.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.0d3e27d6.js"
+  ]
+}
